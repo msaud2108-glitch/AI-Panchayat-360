@@ -44,7 +44,7 @@ Villages today face multiple challenges:
 
 
 
-- **GitHub Repository:** [https://github.com/YourUsername/AI-Panchayat-360](https://github.com/msaud2108-glitch
+- **GitHub Repository:** [https://github.com/msaud2108-glitch/AI-Panchayat-360](https://github.com/msaud2108-glitch
 /AI-Panchayat-360)  
   
 
